@@ -6,9 +6,10 @@
 A tarefa consiste em contruir um modelo de aprendizado de máquina capaz de prever preço médio do imóvel em qualquer região, consiredando os seus indicadores.
 
 ##  Entregas
-- [ ] Análise exploratória dos dados (EDA)
-- [ ] Pré-processamento dos dados
-- [ ] Modelo de regressão 
+- [x] Análise exploratória dos dados (EDA)
+- [x] Pré-processamento dos dados
+- [ ] Modelo de regressão
+- [ ] Validação do modelo
 
 ## Pré-requisitos
 Antes de começar, certifique-se de ter o Python 3.10 (ou superior) instalado. Você pode verificar a versão instalada executando:
