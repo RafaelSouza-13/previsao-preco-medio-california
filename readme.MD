@@ -8,8 +8,8 @@ A tarefa consiste em contruir um modelo de aprendizado de máquina capaz de prev
 ##  Entregas
 - [x] Análise exploratória dos dados (EDA)
 - [x] Pré-processamento dos dados
-- [ ] Modelo de regressão
-- [ ] Validação do modelo
+- [x] Modelo de regressão
+- [x] Validação do modelo
 
 ## Pré-requisitos
 Antes de começar, certifique-se de ter o Python 3.10 (ou superior) instalado. Você pode verificar a versão instalada executando:
