@@ -15,7 +15,7 @@ A tarefa consiste em contruir um modelo de aprendizado de máquina capaz de prev
 - [x] Testar o regressor da **Support Vector Machine** com vários hiperparámetros
 - [x] Testar subistituir **GridSearchCV** por **RandomizedSearch**
 - [ ] Adicionar um transformador na pipeline para selecionar apenas atributos importantes
-- [ ] Única pipeline que faça a preparação completa de dados mais a predição final
+- [x] Única pipeline que faça a preparação completa de dados mais a predição final
 - [ ] Explorar automaticamente algumas opções de preparação para o **GridSearchCV**
 
 ## Pré-requisitos
